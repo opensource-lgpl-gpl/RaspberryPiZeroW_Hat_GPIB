@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Raspi_GPIB)(type Legacy)(uri ${KIPRJMOD}/Raspi_GPIB.lib)(options "")(descr "Raspi_GPIB specifics"))
+  (lib (name Raspi_GPIB_Zero_V6-rescue)(type Legacy)(uri ${KIPRJMOD}/Raspi_GPIB_Zero_V6-rescue.lib)(options "")(descr ""))
+)

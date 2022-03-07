@@ -1,0 +1,20 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GPIB_CENTRONICS_02X12_24pin_Plug
+D CONN SCSI PLUG 24POS R/A SOLDER
+F https://content.norcomp.net/rohspdfs/SCSI-050Ribbon/11Y/112/112-YYY-113RYY1.pdf
+$ENDCMP
+#
+$CMP SN75160
+D SN75160B OCTAL GENERAL-PURPOSE INTERFACE BUS TRANSCEIVER
+K GPIB
+F https://www.ti.com/lit/ds/symlink/sn75160b.pdf?ts=1630264111022&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN75160B%253FHQS%253DTI-null-null-octopart-df-pf-null-wwe
+$ENDCMP
+#
+$CMP SN75161
+D SN75161B, SN75162B OCTAL GENERAL-PURPOSE INTERFACE BUS TRANSCEIVERS
+K GPIB
+F https://www.ti.com/lit/ds/symlink/sn75161b.pdf?ts=1630264168063&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FSN75161B%253FkeyMatch%253DSN75161B
+$ENDCMP
+#
+#End Doc Library
