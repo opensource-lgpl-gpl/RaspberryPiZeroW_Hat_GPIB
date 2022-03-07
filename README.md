@@ -1,9 +1,9 @@
-# RaspberryPiZeroWHat_GPIB
+# RaspberryPiZeroW_Hat_GPIB
 ## A $25.66 Dongle 
 ### Alternative to GPIB National Instrument's USB-GPIB-HS (MSRP: $1,476) and Prologix GPIB-LAN (MSRP: $189.99): 
 This is used to standardize old Lab Instruments (Ammeters and Voltage Sources) like the Kiethley Picoammeter and Voltage Source so that a computer can connect wired via USB-A or wirelessly via bluetooth to a Raspberry Pi Zero with Wifi capabilities. 
 
-This contraption RaspberryPiZeroWHat_GPIB can deliver results wirelessly via bluetooth or wired via USB-A (Plug) to USB (Plug) so that results can be delivered wirelessly in order to support work-from-home pandemic initiatives. 
+This contraption RaspberryPiZeroW_Hat_GPIB can deliver results wirelessly via bluetooth or wired via USB-A (Plug) to USB (Plug) so that results can be delivered wirelessly in order to support work-from-home pandemic initiatives. 
 
 This allows the older lab instruments to have the same capabilities as newer more expensive lab instruments that can cost thousands of dollars. 
 
@@ -23,7 +23,7 @@ Link to thesis paper (I studied German at University of Freie-Universitat, Berli
 
 I worked on this project about 6-8 hours total; most of the time was spent on tool setup and getting used to KiCAD, FreeCAD, and FreeRoute on a Mac machine.
 
-This $25 dongle RaspberryPiZeroWHat_GPIB would be placed on every old lab instrument to modernize/"upgrade" it. 
+This $25 dongle RaspberryPiZeroW_Hat_GPIB would be placed on every old lab instrument to modernize/"upgrade" it. 
 
 ## Bill of Materials from Digikey and OshPark and Raspberry Pi 
 ### (Total Cost of Materials)
