@@ -13,7 +13,7 @@ This side-project used free and open-source tools to show:
 - Free software FreeCAD can completely replace SolidWorks, AutoCAD, et cetera (all costly "CAD" software). 
 
 ## Why was this created? 
-I was tasked with getting a Prologix-LAN (MSRP $189.99) to talk to an old lab instrument; I was having a hard time connecting to a Prologix GPIB-Lan that was talking to a Kiethley instrument because when I sent the Prologix controller a command to go into "recieve"/"listen" mode, the logic was inverted; what resulted was the Prologix controller started to spew out a lot of data. Then when I wanted the Prologix controller to give me data or in other words, to "talk," the Prologix controller was silenced and went into "recieve"/"listen" mode. 
+During my time at NASA, I was tasked with getting a Prologix-LAN (MSRP $189.99) to talk to an old lab instrument; I was having a hard time connecting to a Prologix GPIB-Lan that was talking to a Kiethley instrument because when I sent the Prologix controller a command to go into "recieve"/"listen" mode, the logic was inverted; what resulted was the Prologix controller started to spew out a lot of data. Then when I wanted the Prologix controller to give me data or in other words, to "talk," the Prologix controller was silenced and went into "recieve"/"listen" mode. 
 
 So I said to myself: "Why would I want to use a GPIB controller that does the exact opposite of what you want it to? Wouldn't that unpredictability potentially compromise valuable results someday when something invariably goes wrong, and you are trying to look for a root-cause?"
 
