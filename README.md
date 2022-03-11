@@ -50,10 +50,12 @@ KiCAD is a free alternative to more expensive software suites like Altium.
 ## FreeRouting Tool to auto-route the PCB
 ### Tool used: FreeRouting
 #### Cost of Tool used: Free, Open-source
-I used the open-source and free tool called FreeRouting (https://freerouting.org) to route the PCB and ensure that a mounting bracket 
+I used the open-source and free tool called FreeRouting (https://freerouting.org) to route the PCB and ensure that a mounting bracket would fit. 
+
 The PCB was designed using Free Routing to prevent cross-talk of wires as well as support a FreeCAD-designed mounting bracket. 
 
 What is shown is the schematics taken from KiCAD. 
+
 ![Screen Shot 2022-03-06 at 1 11 00 PM](https://user-images.githubusercontent.com/33333047/156940672-710920b7-4bf7-457b-bb29-0b7c213f05d1.png)
 
 ## Right Angle Mounting Bracket between the Raspberry Pi Zero W and GPIB Rpi Hat. 
